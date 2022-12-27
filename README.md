@@ -1,5 +1,5 @@
 # DEDSEC WIFIPHISH 
-it can create fake access points and create captive portal by redirecting users connected to the wireless network to give their credentials for take access to the internet. 
+It can create fake access point, and create captive portal to redirect users connected to the wireless network.
 
 ### banner
 ![1](https://github.com/0xbitx/dedsec-wifiphish/blob/master/banner.png)
