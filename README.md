@@ -22,7 +22,5 @@ It can create fake access point, and create captive portal to redirect users to 
 ### LANGUAGE 
 * Bash Script
 
-### DISCLAIMER
-                                       TO BE USED FOR EDUCATIONAL PURPOSES ONLY
-
-The use of the dedsec-wifiphish is COMPLETE RESPONSIBILITY of the END-USER. Developers assume NO liability and are NOT responsible for any misuse or damage caused by this program. 
+# disclaimer:
+  I'm not responsible for anything you do with this program, so please only use it for good and educational purposes.
